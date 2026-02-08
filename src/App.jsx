@@ -65,7 +65,6 @@ function App() {
     setEditTodo(item);
     setTaskName(item.name);
   };
-  console.log("filter , todo", todos, filterTodo);
 
   return (
     <>
